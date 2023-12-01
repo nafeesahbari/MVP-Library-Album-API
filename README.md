@@ -4,6 +4,10 @@
 
 ![Screenshot 2023-12-01 at 3 28 33 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/0f9b8957-27fd-4f81-b290-ebefa6a252bf)
 
-![Screenshot 2023-12-01 at 3 30 12 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/8be0d28a-b110-4a54-be38-b21d2dd1b35d)
+![Screenshot 2023-12-01 at 3 33 20 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/04989b1f-e76b-4912-ad9a-ec13a5b585b4)
 
-![Screenshot 2023-12-01 at 3 31 23 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/58727951-0135-4908-a893-520aa2a4a5a7)
+![Screenshot 2023-12-01 at 3 33 56 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/16201814-07bc-4ae0-b097-1bfac88b642f)
+
+![Screenshot 2023-12-01 at 3 34 21 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/fd264b4b-9fcd-49ab-ba90-2e7b85c62e05)
+
+![Screenshot 2023-12-01 at 3 34 43 PM](https://github.com/nafeesahbari/MVP-Library-Album-API/assets/70549270/e19840a5-76cf-42a0-8f8b-75ecc3fbe0d3)
